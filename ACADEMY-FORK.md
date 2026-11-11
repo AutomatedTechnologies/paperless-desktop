@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Paperless Desktop — https://github.com/thomasbrueggemann/paperless-desktop
-- **Original authors:** Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>; (1) assert copyright on the software, and (2) offer you this License; "Copyright" also means copyright-like laws that apply to other kinds of
+- **Original authors:** Thomas Brüggemann
 - **License:** GPL-3.0 (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 82f84c8176e497fbf061575a235bb8283cec2418 (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-08
